@@ -62848,7 +62848,7 @@ $icS:1}
 A.vw.prototype={
 aF(){return new A.M2(new A.vx(new A.bv(null,t.b7),A.ai(0,null,!1,t.Z)),new A.YB(),B.l)}}
 A.M2.prototype={
-M(a,b){return new A.vc(this.e,this.d,"Azeer Loyality Program",null)}}
+M(a,b){return new A.vc(this.e,this.d,"AZEER Admin",null)}}
 A.rS.prototype={
 aF(){return new A.IR(B.l)}}
 A.IR.prototype={
